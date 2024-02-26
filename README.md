@@ -1,1 +1,1 @@
-# AdidasMKTTrends
+# Analyzing Marketing Trends for Adidas
